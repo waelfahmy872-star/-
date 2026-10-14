@@ -1,0 +1,6 @@
+{
+  "name": "ياسين كابشن - Yaseen Caption",
+  "description": "منظومة ذكية لتفريغ الصوت بدقة فائقة وتوليد ملفات ترجمة SRT متزامنة 100% مع منشئ الصور بالذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
